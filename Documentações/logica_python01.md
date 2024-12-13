@@ -4,7 +4,7 @@
 
 ### Introdução
 
-Python é uma das linguagens de programação mais populares do mundo devido à sua simplicidade e facilidade de aprendizado. Nesta apostila, vamos explorar dois conceitos fundamentais para quem está iniciando: **variáveis**, **estruturas de decisão** e **estruturas de repetição**.
+Python é uma das linguagens de programação mais populares do mundo devido à sua simplicidade e facilidade de aprendizado. Nesta apostila, vamos explorar tres conceitos fundamentais para quem está iniciando: **variáveis**, **estruturas de decisão** e **estruturas de repetição**.
 
 ---
 
