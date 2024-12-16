@@ -36,4 +36,3 @@ print(f"Segunda Forma:{nome} {seu_time}")
 
 #Terceira Forma
 print("Terceira Forma: {}".format(seu_time))
-
